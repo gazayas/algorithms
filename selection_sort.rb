@@ -1,4 +1,4 @@
-ary = [2, 3, 1, 7, 10, 5, 4, 9, 8, 6]
+require 'variables'
 
 # 選択ソート
 def selection_sort ary
