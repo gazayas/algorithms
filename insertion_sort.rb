@@ -1,5 +1,3 @@
-require 'variables.rb'
-
 def insertion_sort ary  
   ary.each do |value|
     ary.index(value).downto(0) do |n|
