@@ -1,6 +1,9 @@
 require 'variables'
 
 # 選択ソート
+# これは大体自分で作ったものじゃないです。
+# 次の記事を参照してください：
+# http://qiita.com/gazayas/items/55d60798e449c5e04a24
 def selection_sort ary
   0.upto(ary.length - 1).each do |x|
     min_num = ary[x]
