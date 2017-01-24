@@ -2,6 +2,8 @@
 # 速さ：遅い
 # 単純
 
+# 動画：https://www.youtube.com/watch?v=8oJS1BMKE64
+
 # wikiに記載してある情報
 # （https://ja.wikipedia.org/wiki/%E6%8C%BF%E5%85%A5%E3%82%BD%E3%83%BC%E3%83%88）：
 # 整列してある配列に追加要素を適切な場所に挿入すること。
