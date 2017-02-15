@@ -19,8 +19,7 @@ def insertion_sort ary
       elsif value > ary[n]
         break
       else # value < ary[n]
-        ary[n + 1] = ary[n]
-        ary[n] = value
+        ary[n + 1], ary[n] = ary[n], value
         if value < ary[n - 1]
           next
         else
