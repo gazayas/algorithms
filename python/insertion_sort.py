@@ -17,8 +17,3 @@ def insertion_sort(ary):
             else:
               break
   return ary
-
-
-# Make this into a test
-ary = insertion_sort([2, 1, 3, 7, 5, 6, 4])
-print(ary)
