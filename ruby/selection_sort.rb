@@ -1,5 +1,5 @@
 # 選択ソート
-# これは大体自分で作ったものじゃないです。
+
 # 次の記事を参照してください：
 # http://qiita.com/gazayas/items/55d60798e449c5e04a24
 def selection_sort ary
